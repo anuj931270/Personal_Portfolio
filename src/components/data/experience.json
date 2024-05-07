@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer - Intern",
+    "organisation": "OctaNet Services Pvt.Ltd",
+    "startDate": "Feb, 2024",
+    "endDate": "April, 2024",
+    "location": "Bhubaneswar, Odisha, India",
+    "experiences": [
+      "Worked on the Project",
+      "Worked with the OctaNet Services brand Team"
+    ],
+    "imageSrc": "company/octanet.png"
+  },
+  
+  {
+    "id": 2,
+    "role": "Web Developer - Intern",
+    "organisation": "Prodigy Infotech",
+    "startDate": "Feb, 2024",
+    "endDate": "March, 2024",
+    "location": "Gandhi Nagar, Worli, Mumbai India",
+    "experiences": [
+      "Worked on Frontend-Domain",
+      "Helped to create UI for Frontend"
+    ],
+    "imageSrc": "company/prodigy.png"
+  }
+]
+
+
+
+
